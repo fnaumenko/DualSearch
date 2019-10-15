@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2010\Projects\TestSearchBrowser\TestSearchBrowser\bin\Debug\TestSearchBrowser.exe
+D:\Documents\Visual Studio 2010\Projects\TestSearchBrowser\TestSearchBrowser\bin\Debug\TestSearchBrowser.pdb
+D:\Documents\Visual Studio 2010\Projects\TestSearchBrowser\TestSearchBrowser\obj\x86\Debug\TestSearchBrowser.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\TestSearchBrowser\TestSearchBrowser\obj\x86\Debug\TestSearchBrowser.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\TestSearchBrowser\TestSearchBrowser\obj\x86\Debug\TestSearchBrowser.exe
+D:\Documents\Visual Studio 2010\Projects\TestSearchBrowser\TestSearchBrowser\obj\x86\Debug\TestSearchBrowser.pdb
+D:\Documents\Visual Studio 2010\Projects\TestSearchBrowser\TestSearchBrowser\obj\x86\Debug\TestSearchBrowser.Form1.resources
